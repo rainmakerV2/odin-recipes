@@ -1,4 +1,4 @@
-# odin-recipes
+# Odin Recipes
 
 ## Objective 
 This project exists to practice and demonstrate the basic HTML knowledge I've obtained as part of the Odin Project course. 
